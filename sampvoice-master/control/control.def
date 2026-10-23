@@ -1,0 +1,9 @@
+﻿LIBRARY sampvoice
+VERSION 4.2
+EXPORTS
+	Load
+	Unload
+	AmxLoad
+	AmxUnload
+	ProcessTick
+	Supports

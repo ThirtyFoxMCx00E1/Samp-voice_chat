@@ -1,0 +1,10 @@
+/.vs/
+
+/binaries/
+
+/client/build/
+/control/build/
+/voice/build/
+
+*.lck
+*.gch
